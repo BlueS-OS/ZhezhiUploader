@@ -1,0 +1,10 @@
+{
+  "name": "blue-zhezhi",
+  "version": "2.0.3",
+  "private": true,
+  "type": "module",
+  "description": "Sellador de contenedor MP4 — Zhezhi / Phrolova",
+  "scripts": {
+    "test": "node test/surgical.test.mjs"
+  }
+}
